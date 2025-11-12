@@ -7,4 +7,5 @@ data/
 
 # Ignore Jupyter checkpoints
 .ipynb_checkpoints/
+.venv/
 venv/
